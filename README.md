@@ -17,6 +17,10 @@ Exemplo:
 - [ ] Enviar comandos e apresentar a resposta do cliente
 - [ ] Pedir um diagnóstico arbitrário e receber resposta
 - [ ] Envio de algum tipo de mensagem quando receber informações críticas de um computador ( e-mail, SMS, WhatsApp?! )
+- [ ] Listagem de equipamentos (JSON com todas as máquinas)
+- [ ] Criar cli com comandos básicos e um belo panela num while loop infinito
+- [ ] agrupar computadores por salas, avisar que salas podem está em aula
+
 
 ### Clientes
 
